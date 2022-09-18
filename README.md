@@ -2,7 +2,7 @@ smartinternz02
 
 SPSGP-81219-Virtual-Internship
 
-Hello, My name is Govind Gupta (B.Tech 2nd Year) I have smoothly completed the Google supported virtual internship program (Android App development using Kotlin) in collaboration with AICTE, and I've attached the project's github repo links and app's demo video drive link . Please refer to link to check please sir/ma'am..!! .
+Hello..!, My name is Govind Gupta (B.Tech 2nd Year) I have smoothly completed the Google supported virtual internship program (Android App development using Kotlin) in collaboration with AICTE, and I've attached the project's github repo links and app's demo video drive link . Please refer to link to check please sir/ma'am..!! .
 I'm very thanking to SMART INTERNZ and Sandeep Doodigani sir for this Internship.
 
 ##########################################
